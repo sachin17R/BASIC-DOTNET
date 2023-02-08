@@ -1,0 +1,6 @@
+D:\Sachin R-3338\DOT NET PROGRAMM\SampleConApp\SampleConApp\bin\Debug\SampleConApp.exe.config
+D:\Sachin R-3338\DOT NET PROGRAMM\SampleConApp\SampleConApp\bin\Debug\SampleConApp.exe
+D:\Sachin R-3338\DOT NET PROGRAMM\SampleConApp\SampleConApp\bin\Debug\SampleConApp.pdb
+D:\Sachin R-3338\DOT NET PROGRAMM\SampleConApp\SampleConApp\obj\Debug\SampleConApp.csproj.CoreCompileInputs.cache
+D:\Sachin R-3338\DOT NET PROGRAMM\SampleConApp\SampleConApp\obj\Debug\SampleConApp.exe
+D:\Sachin R-3338\DOT NET PROGRAMM\SampleConApp\SampleConApp\obj\Debug\SampleConApp.pdb
