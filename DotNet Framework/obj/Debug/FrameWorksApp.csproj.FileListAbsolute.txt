@@ -1,0 +1,7 @@
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\bin\Debug\FrameWorksApp.exe.config
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\bin\Debug\FrameWorksApp.exe
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\bin\Debug\FrameWorksApp.pdb
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\obj\Debug\FrameWorksApp.csproj.CoreCompileInputs.cache
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\obj\Debug\FrameWorksApp.exe
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\obj\Debug\FrameWorksApp.pdb
+D:\Sachin R-3338\DOT NET PROGRAMM\FrameWorksApp\obj\Debug\FrameWorksApp.csprojAssemblyReference.cache

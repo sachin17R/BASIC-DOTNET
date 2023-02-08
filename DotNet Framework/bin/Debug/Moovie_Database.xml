@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfMoovieClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MoovieClass>
+    <MoovieId>111</MoovieId>
+    <MoovieName>Avatar</MoovieName>
+    <MoovieProduction>Marvels Studio</MoovieProduction>
+    <MoovieRating>4.5</MoovieRating>
+  </MoovieClass>
+  <MoovieClass>
+    <MoovieId>123</MoovieId>
+    <MoovieName>zszxs</MoovieName>
+    <MoovieProduction>sdsds</MoovieProduction>
+    <MoovieRating>5</MoovieRating>
+  </MoovieClass>
+</ArrayOfMoovieClass>

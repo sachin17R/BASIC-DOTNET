@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfCustomerClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerClass>
+    <CustomerId>111</CustomerId>
+    <CustomerName>ssachin</CustomerName>
+    <CustomerProduction>dsadsad</CustomerProduction>
+    <CustomerRating>2</CustomerRating>
+  </CustomerClass>
+</ArrayOfCustomerClass>
