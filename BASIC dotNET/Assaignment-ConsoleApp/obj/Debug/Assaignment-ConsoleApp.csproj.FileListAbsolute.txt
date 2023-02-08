@@ -1,0 +1,7 @@
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\obj\Debug\Assaignment-ConsoleApp.csprojAssemblyReference.cache
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\obj\Debug\Assaignment-ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\bin\Debug\Assaignment-ConsoleApp.exe.config
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\bin\Debug\Assaignment-ConsoleApp.exe
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\bin\Debug\Assaignment-ConsoleApp.pdb
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\obj\Debug\Assaignment-ConsoleApp.exe
+D:\Sachin R-3338\DOT NET PROGRAMM\completeDotnet\Assaignment\Assaignment-ConsoleApp\obj\Debug\Assaignment-ConsoleApp.pdb

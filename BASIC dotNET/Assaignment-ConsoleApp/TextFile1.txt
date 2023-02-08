@@ -1,0 +1,6 @@
+﻿*******************Wel-Come to Medical Reasearch Application************************
+
+1-Add Disease Details -------------------->Press 1
+2-Add Symptom to Desease ----------------->Press 2
+1-Check Patient -------------------------->Press 3
+

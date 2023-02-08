@@ -1,0 +1,6 @@
+﻿
+**********************Moovie DataBase**********************
+1).---------Add Moovies--------------->Press 1.
+2).---------Remove Moovies------------>Press 2.
+3).---------Update Moovies------------>Press 3.
+4).---------Find Moovies-------------->Press 4.
